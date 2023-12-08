@@ -104,6 +104,7 @@ In my experience design comments are also very useful in order to state, in case
      * Every thread waits for new jobs in its queue, and process every job
      * sequentially.
      ...
+```
 
 ## WHY COMMENTS
 
