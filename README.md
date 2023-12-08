@@ -1,4 +1,4 @@
-# Writing system software: code comments. - <antirez>
+# Writing system software: code comments - `<antirez>`
 
 > [!NOTE]
 > 
