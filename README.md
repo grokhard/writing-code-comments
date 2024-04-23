@@ -2,7 +2,7 @@
 
 > [!NOTE]
 > 
-> This was originally posted by [antirez](http://antirez.com/user/antirez) at http://antirez.com/news/124.
+> This was originally posted by [antirez](http://antirez.com/user/antirez) at [http://antirez.com/news/124](http://antirez.com/news/124).
 > I converted to Markdown so that each type of comments could be referenced by a link.
 > All rights reserved by `antirez`.
 
@@ -57,7 +57,7 @@ During my research I identified nine types of comments:
 * [Why comments](#why-comments)
 * [Teacher comments](#teacher-comments)
 * [Checklist comments](#checklist-comments)
-* [Guide comments](#guide-comments)
+* [Guide comments](#guide-comment)
 * [Trivial comments](#trivial-comments)
 * [Debt comments](#debt-comments)
 * [Backup comments](#backup-comments)
